@@ -6,7 +6,7 @@ a KSU repository(KernelSU) for **redmi note 8** (ginkgo).
 Follow my contacts details
  - [Telegram](https://t.me/nyandesu) - my telegram
  - [Channel](https://t.me/akaritsu) - releases my kernel
- - [Group](https://t.me/moekernel) - my group for MoeKernel
+ - [Group](https://t.me/moekernel) - my group for Moeハッカー(Kernel)
 
 ```go
 package ksu
