@@ -1,5 +1,5 @@
-# kernel_Moe_ginkgo
-a KSU repository(KernelSU) for redmi note 8.
+## kernel Moeハッカー (ginkgo)
+a KSU repository(KernelSU) for **redmi note 8** (ginkgo).
 
 ```go
 package ksu
