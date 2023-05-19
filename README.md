@@ -1,12 +1,19 @@
 ## kernel Moeハッカー (ginkgo)
 a KSU repository(KernelSU) for **redmi note 8** (ginkgo).
 
+------
+
+Follow my contacts details
+ - [Telegram](https://t.me/nyandesu) - my telegram
+ - [Channel](https://t.me/akaritsu) - releases my kernel
+ - [Group](https://t.me/moekernel) - my group for MoeKernel
+
 ```go
 package ksu
 
 func main() {
     kernelsu := []string {
-        "This README.MD is just to inform you",
+        "This README.MD is just to inform u",
         "that the redmi note 8 has support",
         "for the KSU compiled by me and",
         "that you can also purchase it",
