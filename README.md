@@ -24,9 +24,10 @@ func main() {
 }
 ```
 
-##### A brief explanation of what is KSU(KernelSU)
+### A brief explanation of what is KSU(KernelSU)
 
 > **KernelSU is a kernel-based rooting solution for Android devices. It provides kernel-based root and su access management and an overlayfs-based module system.**
 
-##### Link of the Downloads builds with KSU:
-  • [DevUploads](https://devuploads.com/users/AkariOficial/2844/v4.14.314)
+### Link of the Downloads builds with KSU:
+ - [DevUploads](https://devuploads.com/users/AkariOficial/2843/MoeKernel) Uploads
+ - [MoeKernel](https://t.me/akaritsu) channel where I post the releases of the my kernel.
