@@ -1,5 +1,5 @@
 ## Kernel Moeハッカー (ginkgo)
-a repository about KSU for **xiaomi redmi note 8** (ginkgo).
+repository about KSU for **xiaomi redmi note 8** (ginkgo).
 
 ------
 
