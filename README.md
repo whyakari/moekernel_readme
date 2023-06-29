@@ -1,11 +1,12 @@
 ## Kernel Moeハッカー (ginkgo)
-repository about KSU for **xiaomi redmi note 8** (ginkgo).
+KSU for **Xiaomi Redmi Note 8** (ginkgo).
 
 ------
 
-Follow my contacts details
+Follow My Contacts
  - [Telegram](https://t.me/whyakari) - my telegram
  - [Channel](https://t.me/akaritsu) - releases my kernel
+ - [[CI] Moeニャン](https://t.me/cimoenyan) CI Releases
  - [Group](https://t.me/moekernel) - my group Moeニャン(Kernel)
 
 ```go
@@ -24,10 +25,10 @@ func main() {
 }
 ```
 
-### A brief explanation of what is KSU(KernelSU)
+### A brief explanation of what is "KSU"
+> **KSU (KernelSU) is a kernel-based rooting solution for Android devices. It provides kernel-based root and su access management and an overlayfs-based module system.**
 
-> **KernelSU is a kernel-based rooting solution for Android devices. It provides kernel-based root and su access management and an overlayfs-based module system.**
-
-### Link of the Downloads builds with KSU:
- - [DevUploads](https://devuploads.com/users/AkariOficial/2843/MoeKernel) Uploads
+### Downloads builds and info
+ - [DevUploads](https://devuploads.com/users/AkariOficial/2843/MoeKernel) Uploads Kernel
+ - [[CI] Moeニャン](https://t.me/cimoenyan) CI Releases
  - [MoeKernel](https://t.me/akaritsu) channel where I post the releases of the my kernel.
