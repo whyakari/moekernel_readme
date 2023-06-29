@@ -4,10 +4,10 @@ KSU for **Xiaomi Redmi Note 8** (ginkgo).
 ------
 
 Follow My Contacts
- - [Telegram](https://t.me/whyakari) - my telegram
- - [Channel](https://t.me/akaritsu) - releases my kernel
- - [[CI] Moeニャン](https://t.me/cimoenyan) CI Releases
- - [Group](https://t.me/moekernel) - my group Moeニャン(Kernel)
+ - [Telegram](https://t.me/whyakari) - My Telegram
+ - [Channel](https://t.me/akaritsu) -  Releases
+ - [[CI] Moeニャン](https://t.me/cimoenyan) - CI Releases
+ - [Group MoeKernel](https://t.me/moekernel) - Moeニャン(Kernel)
 
 ```go
 package ksu
