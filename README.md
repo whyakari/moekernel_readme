@@ -13,13 +13,13 @@ package ksu
 
 func main() {
     kernelsu := []string {
-        "This README.MD is just to inform u",
-        "that the redmi note 8 has support",
-        "for the KSU compiled by me and",
-        "that you can also purchase it",
-        "(if you have a redmi note 8",
-        "with unlocked bootloader)",
+        "This README is just to inform",
+        "that the ginkgo has support",
+        "kernel compiled with ksu by me and",
+        "(if u have a redmi note 8",
+        "with unlocked bootloader",
         "and a custom recovery)",
+        "you can use!"
    }
 }
 ```
