@@ -4,9 +4,9 @@
 
 ### Follow My Contacts
  - [Telegram](https://t.me/whyakari) - My Telegram
- - [Channel](https://t.me/MoeNOfficial) -  Releases
+ - [Channel](https://t.me/Moekernel) -  Releases
  - [[CI] Moeニャン](https://t.me/MoeNyanCI) - CI Releases
- - [Group MoeKernel](https://t.me/MoeKernel) - Moeニャン(Kernel)
+ - [Group MoeKernel](https://t.me/MoeKernelChat) - Moeニャン(Kernel)
 
 ```go
 package kernel
@@ -20,7 +20,6 @@ func main() {
 }
 ```
 
-### Downloads builds and info
- - [DevUploads](https://devuploads.com/users/AkariOficial/2843/MoeKernel) Uploads Kernel
- - [[CI] Moeニャン](https://t.me/cimoenyan) CI Releases
- - [MoeKernel](https://t.me/MoeKernel) channel where I post the releases of the my kernel.
+### Downloads Builds
+ - [[CI] Moeニャン](https://t.me/MoeNyanCI) CI Releases
+ - [MoeKernel](https://t.me/MoeKernel) Releases
